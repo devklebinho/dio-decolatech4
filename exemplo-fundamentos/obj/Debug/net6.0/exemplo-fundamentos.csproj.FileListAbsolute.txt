@@ -1,0 +1,15 @@
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\bin\Debug\net6.0\exemplo-fundamentos.exe
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\bin\Debug\net6.0\exemplo-fundamentos.deps.json
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\bin\Debug\net6.0\exemplo-fundamentos.runtimeconfig.json
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\bin\Debug\net6.0\exemplo-fundamentos.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\bin\Debug\net6.0\exemplo-fundamentos.pdb
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.csproj.AssemblyReference.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.AssemblyInfoInputs.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.AssemblyInfo.cs
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.csproj.CoreCompileInputs.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\refint\exemplo-fundamentos.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.pdb
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\exemplo-fundamentos.genruntimeconfig.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-fundamentos\obj\Debug\net6.0\ref\exemplo-fundamentos.dll
