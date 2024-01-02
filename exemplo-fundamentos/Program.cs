@@ -2,12 +2,14 @@
 
 Calculadora calculadora = new Calculadora();
 Tabuada tabuada = new Tabuada();
+ArrayEListas umArray = new ArrayEListas();
+
+umArray.ExecutaLista();
 
 
-Console.WriteLine("TABUADA\n digite um número para imprimir uma tabuada");
-int numero = Convert.ToInt32(Console.ReadLine());
-tabuada.CriaTabuada(numero);
-
+// Console.WriteLine("TABUADA\n digite um número para imprimir uma tabuada");
+// int numero = Convert.ToInt32(Console.ReadLine());
+// tabuada.CriaTabuada(numero);
 
 
 // Console.WriteLine("Digite uma letra: ");
