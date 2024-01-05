@@ -1,0 +1,15 @@
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\bin\Debug\net6.0\exemplo-explorando.exe
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\bin\Debug\net6.0\exemplo-explorando.deps.json
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\bin\Debug\net6.0\exemplo-explorando.runtimeconfig.json
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\bin\Debug\net6.0\exemplo-explorando.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\bin\Debug\net6.0\exemplo-explorando.pdb
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.csproj.AssemblyReference.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.AssemblyInfoInputs.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.AssemblyInfo.cs
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.csproj.CoreCompileInputs.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\refint\exemplo-explorando.dll
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.pdb
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\exemplo-explorando.genruntimeconfig.cache
+D:\03 PROJETOS\dio-decolatech4\exemplo-explorando\obj\Debug\net6.0\ref\exemplo-explorando.dll
