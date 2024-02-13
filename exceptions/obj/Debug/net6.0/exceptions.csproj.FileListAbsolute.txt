@@ -1,0 +1,15 @@
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\bin\Debug\net6.0\exceptions.exe
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\bin\Debug\net6.0\exceptions.deps.json
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\bin\Debug\net6.0\exceptions.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\bin\Debug\net6.0\exceptions.pdb
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.pdb
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\exceptions\obj\Debug\net6.0\ref\exceptions.dll
