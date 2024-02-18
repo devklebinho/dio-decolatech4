@@ -1,6 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
+﻿using exceptions.Models;
+/*
 try
 {
     string[] linhas = File.ReadAllLines("files/leitura.txt");
@@ -25,4 +24,10 @@ catch(Exception ex)
 finally
 {
     Console.WriteLine("Chegou ao finally");
-}
+}*/
+
+
+
+ExemploExcecao excecao = new ExemploExcecao();
+
+excecao.Metodo1();

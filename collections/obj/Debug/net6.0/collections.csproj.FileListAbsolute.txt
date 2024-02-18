@@ -1,0 +1,15 @@
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\bin\Debug\net6.0\collections.exe
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\bin\Debug\net6.0\collections.deps.json
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\bin\Debug\net6.0\collections.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\bin\Debug\net6.0\collections.pdb
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\refint\collections.dll
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.pdb
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+D:\03 PROJETOS\Programação\dio-decolatech4\collections\obj\Debug\net6.0\ref\collections.dll
